@@ -1,3 +1,4 @@
 Learn Git
 Use GitHub
 Manage versions
+Pass the course!
