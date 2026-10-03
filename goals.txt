@@ -2,4 +2,3 @@ Learn Git
 Use GitHub
 Manage versions
 Pass the course!
-This line was added by mistake.
